@@ -1,6 +1,7 @@
 flask
 gunicorn
 torch
+torchvision
 librosa
 numpy
 opencv-python
