@@ -1,0 +1,6 @@
+data/
+weights/
+*.pth
+*.npy
+__pycache__/
+.venv/
