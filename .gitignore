@@ -1,6 +1,12 @@
-data/
-weights/
-*.pth
-*.npy
-__pycache__/
 .venv/
+__pycache__/
+.env
+
+data/
+notebooks/
+weights/
+checkpoints/
+
+*.wav
+*.mp3
+*.log
